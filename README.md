@@ -11,7 +11,7 @@ Developed in the Keles Research Group in the University of Wisconsin - Madison. 
 
 ![iFunMed Model Depiction](figures/ModelDepiction.png)
 
-
+ 
 ## iFunMed Model Fitting
 
 We provide an example data file (`example_data.RData`) for new users to get familiar with *iFunMed*. It consists of a small set of 500 SNPs and contains the input for the model:
